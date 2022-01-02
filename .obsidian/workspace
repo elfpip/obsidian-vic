@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "技术书籍/设计模式之蝉.md",
+            "file": "技术书籍/Java 8 实战.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术书籍/设计模式之蝉.md",
+                "file": "技术书籍/Java 8 实战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
   },
   "active": "232f06c96d4ba014",
   "lastOpenFiles": [
-    "技术书籍/设计模式之蝉.md",
-    "技术书籍/Java 8 实战.md"
+    "技术书籍/Java 8 实战.md",
+    "技术书籍/设计模式之蝉.md"
   ]
 }
