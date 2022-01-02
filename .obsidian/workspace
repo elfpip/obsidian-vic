@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "6e6a5cb2f5279c3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "232f06c96d4ba014",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "技术书籍/Java 8 实战.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32b688bbfa2c4a8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c22a5cc226a6359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cec59fefc31fa13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3d52cb37a18d122",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f32627dfd839099a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f3d340b59c2b59d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284b4db32e682b77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "技术书籍/Java 8 实战.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55c0733ee6c3783c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "232f06c96d4ba014",
+  "lastOpenFiles": [
+    "技术书籍/Java 8 实战.md"
+  ]
+}
