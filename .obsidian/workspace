@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "技术书籍/Effective Java.md",
-            "mode": "preview",
+            "file": "技术书籍/effective Java/第十一条：当覆盖 equals 方法时，总要覆盖 hashCode 方法.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 445
   },
   "right": {
     "id": "f32627dfd839099a",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术书籍/Effective Java.md",
+                "file": "技术书籍/effective Java/第十一条：当覆盖 equals 方法时，总要覆盖 hashCode 方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术书籍/effective Java/第十一条：当覆盖 equals 方法时，总要覆盖 hashCode 方法.md"
+              }
             }
           }
         ],
@@ -112,15 +114,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.2643585205078
+    "width": 329
   },
   "active": "232f06c96d4ba014",
   "lastOpenFiles": [
-    "技术书籍/Effective Java.md",
+    "技术书籍/effective Java/第十一条：当覆盖 equals 方法时，总要覆盖 hashCode 方法.md",
+    "技术书籍/effective Java/未命名.md",
     "技术书籍/设计模式之蝉.md",
     "技术书籍/Java 8 实战.md",
-    "生活管理/ork/生活 ORK.md",
     "生活管理/ork/职业 ORK.md",
+    "生活管理/ork/生活 ORK.md",
+    "技术书籍/effective Java/第十条：复写equals时请遵守通用约定.md",
     "生活管理/OKR.md",
     "生活管理/技术学习看板.md"
   ]
