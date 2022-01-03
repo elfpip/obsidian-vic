@@ -7,11 +7,9 @@
         "id": "232f06c96d4ba014",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "技术书籍/Java 8 实战.md",
-            "mode": "source",
-            "source": false
+            "file": "生活管理/ork/职业 ORK.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术书籍/Java 8 实战.md",
+                "file": "生活管理/ork/职业 ORK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,10 +91,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.2643585205078
   },
   "active": "232f06c96d4ba014",
   "lastOpenFiles": [
+    "生活管理/ork/职业 ORK.md",
+    "生活管理/ork/生活 ORK.md",
+    "生活管理/OKR.md",
+    "生活管理/技术学习看板.md",
+    "技术书籍/Effective Java.md",
     "技术书籍/Java 8 实战.md",
     "技术书籍/设计模式之蝉.md"
   ]
