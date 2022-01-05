@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "技术书籍/effective Java/第十二条：明智地覆盖 clone 方法.md",
-            "mode": "source",
+            "file": "技术书籍/effective Java/14、考虑实现 Comparable 接口.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术书籍/effective Java/第十二条：明智地覆盖 clone 方法.md",
+                "file": "技术书籍/effective Java/14、考虑实现 Comparable 接口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术书籍/effective Java/第十二条：明智地覆盖 clone 方法.md"
+                "file": "技术书籍/effective Java/14、考虑实现 Comparable 接口.md"
               }
             }
           }
@@ -114,19 +114,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 363
   },
   "active": "0b4f13d952443ecb",
   "lastOpenFiles": [
-    "技术书籍/effective Java/第十二条：明智地覆盖 clone 方法.md",
-    "技术书籍/effective Java/第十一条：当覆盖 equals 方法时，总要覆盖 hashCode 方法.md",
-    "技术书籍/effective Java/第十二条：始终覆盖 toString 方法.md",
+    "技术书籍/effective Java/14、考虑实现 Comparable 接口.md",
+    "技术书籍/effective Java/10、复写equals时请遵守通用约定.md",
+    "技术书籍/effective Java/11、当覆盖 equals 方法时，总要覆盖 hashCode 方法.md",
+    "技术书籍/effective Java/12、始终覆盖 toString 方法.md",
+    "技术书籍/effective Java/13、明智地覆盖 clone 方法.md",
     "学习扩展/mixin 接口.md",
-    "技术书籍/effective Java/第十条：复写equals时请遵守通用约定.md",
     "技术书籍/设计模式之蝉.md",
     "技术书籍/Java 8 实战.md",
     "生活管理/ork/职业 ORK.md",
-    "生活管理/ork/生活 ORK.md",
-    "生活管理/OKR.md"
+    "生活管理/ork/生活 ORK.md"
   ]
 }
