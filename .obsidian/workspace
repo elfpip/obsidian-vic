@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习笔记/慕课网/luckySpace/编程工具.md",
+            "file": "技术书籍/effective Java/11、当覆盖 equals 方法时，总要覆盖 hashCode 方法.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习笔记/慕课网/luckySpace/编程工具.md",
+                "file": "技术书籍/effective Java/11、当覆盖 equals 方法时，总要覆盖 hashCode 方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习笔记/慕课网/luckySpace/编程工具.md"
+                "file": "技术书籍/effective Java/11、当覆盖 equals 方法时，总要覆盖 hashCode 方法.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "0b4f13d952443ecb",
   "lastOpenFiles": [
-    "学习笔记/慕课网/luckySpace/编程工具.md",
+    "技术书籍/effective Java/11、当覆盖 equals 方法时，总要覆盖 hashCode 方法.md",
+    "技术书籍/effective Java/10、复写equals时请遵守通用约定.md",
+    "技术书籍/Java 8 实战.md",
     "学习笔记/慕课网/架构师课程/第一章/6、PDMan 数据建模工具的使用.md",
+    "学习笔记/慕课网/架构师课程/第一章/1、大型网站架构演进历程.md",
+    "学习笔记/慕课网/架构师课程/第一章/2、架构师需要具备的能力.md",
+    "学习笔记/慕课网/架构师课程/第一章/3、实现单体架构设计与准备工作.md",
     "学习笔记/慕课网/架构师课程/第一章/5、后端项目拆分与聚合.md",
     "学习笔记/慕课网/架构师课程/第一章/4、前后端分离开发模式.md",
-    "学习笔记/慕课网/架构师课程/第一章/3、实现单体架构设计与准备工作.md",
-    "学习笔记/慕课网/架构师课程/第一章/2、架构师需要具备的能力.md",
-    "学习笔记/慕课网/架构师课程/第一章/1、大型网站架构演进历程.md",
-    "技术书籍/Java 8 实战.md",
-    "技术书籍/设计模式之蝉.md",
-    "技术书籍/effective Java/16、在公共类中使用访问方法而不是公共字段.md"
+    "学习笔记/慕课网/luckySpace/编程工具.md"
   ]
 }
